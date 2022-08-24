@@ -3,7 +3,9 @@
 
 A função deste plugin, baseado nas implementações de Cognize Learning, estão relacionadas a possibilidade de usando a Twilio SDK realizar envio de notificações via Whatsapp. 
 
+## Em andamento
 
+- Teste de envio de notificação via Whatsapp e teste com a API do Twilio.
 
 ## Funcionalidades
 
