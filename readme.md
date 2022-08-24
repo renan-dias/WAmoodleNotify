@@ -3,10 +3,6 @@
 
 A função deste plugin, baseado nas implementações de Cognize Learning, estão relacionadas a possibilidade de usando a Twilio SDK realizar envio de notificações via Whatsapp. 
 
-## Em andamento
-
-- Teste de envio de notificação via Whatsapp e teste com a API do Twilio.
-
 ## Funcionalidades
 
 - Enviar notificações pelo Whatsapp cadastrado no moodle.
@@ -17,6 +13,9 @@ A função deste plugin, baseado nas implementações de Cognize Learning, estã
 Enviar notificações de atividades, retorno de atividades, alertas de comentários em atividades. 
 De forma geral, aplicar as mesmas notificações que são enviadas pelo email no Whatsapp. 
 
+## Em andamento
+
+- Teste de envio de notificação via Whatsapp e teste com a API do Twilio.
 
 ## Referência
 
