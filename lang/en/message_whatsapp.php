@@ -22,12 +22,19 @@
  * @author     Renan Dias <contato.rdpb@gmail.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+
+/* 
+
+Token declaration for Twilio API
+
 $string['pluginname'] = 'Whatsapp';
 $string['accountsid'] = 'Account SID';
 $string['accountsid_desc'] = 'Twillio Account SID';
 $string['authtoken'] = 'Auth Token';
 $string['authtoken_desc'] = 'Twillio Auth Token';
 $string['senderno'] = 'Sender Whatsapp No';
+
+*/
 $string[''] = '';
 $string[''] = '';
 $string[''] = '';
